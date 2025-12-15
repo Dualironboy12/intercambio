@@ -1,8 +1,9 @@
+import Condiciones from "./Condiciones.jsx";
+
 function Body(){
     return (
         <div>
-            <h2>Condiciones</h2>
-            <p>La condiciones en el condiciones</p>
+            <Condiciones />
             <ul>
                 <li>
                     <h3>Emilio</h3>
