@@ -1,10 +1,26 @@
 [
   {
+    "nombre": "Claudia",
+    "regalos": []
+  },
+  {
     "nombre": "Emilio",
     "regalos": ["Correas para reloj", "Combo mouse y teclado inalambricos"]
   },
   {
+    "nombre": "Jorge",
+    "regalos": []
+  },
+  {
+    "nombre": "Norma",
+    "regalos": []
+  },
+  {
     "nombre": "Olivia",
     "regalos": ["Sudadera de Ositos Cariñositos", "Peluche de foca gordita"]
+  },
+  {
+    "nombre": "Toño",
+    "regalos": []
   }
 ]
