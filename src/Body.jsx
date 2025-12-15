@@ -1,18 +1,11 @@
 import Condiciones from "./Condiciones.jsx";
+import ListaRegalos from "./Lista.jsx";
 
 function Body(){
     return (
-        <div>
+        <div className="body">
             <Condiciones />
-            <ul>
-                <li>
-                    <h3>Emilio</h3>
-                    <ul>
-                        <li>Regalo 1</li>
-                        <li>Regalo 2</li>
-                    </ul>
-                </li>
-            </ul>
+            <ListaRegalos/>
         </div>
     )
 }
