@@ -1,14 +1,22 @@
 [
   {
     "nombre": "Claudia",
-    "regalos": []
+    "regalos": ["Chaleco de Equitacion FOUGANZA de Decathlon"]
   },
   {
     "nombre": "Emilio",
-    "regalos": ["Correas para reloj", "Combo mouse y teclado inalambricos"]
+    "regalos": ["Disco duro externo USB C", "Combo mouse y teclado inalambricos", "Cable HDMI 1 o 2 metros"]
   },
   {
     "nombre": "Jorge",
+    "regalos": []
+  },
+  {
+    "nombre": "Marco",
+    "regalos": []
+  },
+  {
+    "nombre": "Trini",
     "regalos": []
   },
   {
