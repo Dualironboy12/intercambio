@@ -9,19 +9,19 @@
   },
   {
     "nombre": "Jorge",
-    "regalos": []
+    "regalos": ["Sueter liviano, de color liso, cuello en V para usar con camisa o traje"]
   },
   {
     "nombre": "Marco",
-    "regalos": []
+    "regalos": ["Sin preferencia"]
   },
   {
     "nombre": "Trini",
-    "regalos": []
+    "regalos": ["Sin preferencia"]
   },
   {
     "nombre": "Norma",
-    "regalos": []
+    "regalos": [""]
   },
   {
     "nombre": "Olivia",
@@ -29,6 +29,6 @@
   },
   {
     "nombre": "Toño",
-    "regalos": []
+    "regalos": [""]
   }
 ]
